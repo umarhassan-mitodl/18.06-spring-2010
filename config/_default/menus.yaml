@@ -1,0 +1,41 @@
+leftnav:
+- identifier: ede17211-bd49-ea16-6ed7-01f09c1de288
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: dd9a953e-feee-023c-e9f4-e965b7a55d57
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 3f3b7835-cf47-7d3b-a10b-05fbe03cbffa
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: 6b1f6624-5736-6951-bfe8-5945521b0299
+  name: Video Lectures
+  pageRef: /video_galleries/video-lectures
+  weight: 40
+- identifier: c60cc6af-5167-431e-95ba-c4541468fd50
+  name: Final 18.06 Lecture 2023
+  pageRef: /pages/final-1806-lecture-2023
+  weight: 50
+- identifier: 81d6a1cd-707c-29b2-9d65-40b3e79d5433
+  name: Readings
+  pageRef: /pages/readings
+  weight: 60
+- identifier: 87609dbb-a9d1-3a6b-234d-62de21a20433
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 70
+- identifier: c13c4766-c0cf-1486-f0cf-6435c531eaad
+  name: Exams
+  pageRef: /pages/exams
+  weight: 80
+- identifier: 554b5049-6090-7e6a-e655-66acc1c314b9
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 90
+- identifier: 6d4babc3-884f-613c-593e-2df8ac802a95
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 100
