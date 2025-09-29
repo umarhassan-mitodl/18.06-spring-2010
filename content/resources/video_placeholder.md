@@ -4,6 +4,8 @@ description: ''
 file: /courses/18-06-linear-algebra-spring-2010/7bd22457099804147171bf99693a25c1_video_placeholder.jpg
 file_size: 111771
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

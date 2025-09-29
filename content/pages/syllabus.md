@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides information on course goals, meeting times,
   prerequisites, required text, homework, exams, grading, and tools for numerical
   linear algebra.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -28,11 +30,11 @@ Multivariable Calculus (18.02)
 Text
 ----
 
-The readings are assigned in: Strang, Gilbert. _Introduction to Linear Algebra_. 4th ed. {{% resource_link "78a7e581-3859-4e80-a6b1-d4c45a7caf02" "Wellesley-Cambridge Press" %}}, 2009. ISBN: 9780980232714.
+The readings are assigned in: Strang, Gilbert. _Introduction to Linear Algebra_. 4th ed. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 2009. ISBN: 9780980232714.
 
-Reading assignments are also provided for the newer edition: Strang, Gilbert. _Introduction to Linear Algebra_. 5th ed. {{% resource_link "78a7e581-3859-4e80-a6b1-d4c45a7caf02" "Wellesley-Cambridge Press" %}}, 2016. ISBN: 9780980232776.
+Reading assignments are also provided for the newer edition: Strang, Gilbert. _Introduction to Linear Algebra_. 5th ed. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 2016. ISBN: 9780980232776.
 
-NOTE: More material on linear algebra (and much more about differential equations) is in Professor Strang's 2014 textbook _{{% resource_link "7f55e532-c070-44bc-963e-515159a6e7a2" "Differential Equations and Linear Algebra" %}}_. In 2016, the textbook was developed into a series of 55 short videos, _[Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler](/courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015)._
+NOTE: More material on linear algebra (and much more about differential equations) is in Professor Strang's 2014 textbook _[Differential Equations and Linear Algebra](http://www-math.mit.edu/~gs/dela)_. In 2016, the textbook was developed into a series of 55 short videos, _[Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler](/courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015)._
 
 Goals
 -----

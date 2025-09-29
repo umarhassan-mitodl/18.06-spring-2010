@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides problem sets from the course text along with solutions.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -12,7 +14,7 @@ video_metadata:
   youtube_id: null
 ---
 
-The problem sets make up 15% of the course grade. Problems are assigned from the required text: Strang, Gilbert. _Introduction to Linear Algebra_. 4th ed. {{% resource_link "78a7e581-3859-4e80-a6b1-d4c45a7caf02" "Wellesley-Cambridge Press" %}}, 2009. ISBN: 9780980232714.
+The problem sets make up 15% of the course grade. Problems are assigned from the required text: Strang, Gilbert. _Introduction to Linear Algebra_. 4th ed. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 2009. ISBN: 9780980232714.
 
 {{< tableopen >}}
 {{< theadopen >}}
