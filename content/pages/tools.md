@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section contains demonstrations on matrix multiplication and Eigenvalues.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
@@ -14,7 +12,7 @@ video_metadata:
   youtube_id: null
 ---
 
-The flash animations were developed by Jean-Michel Claus (with voiceover by Gilbert Strang). We are grateful! Funding was provided by a grant from the [The d'Arbeloff Fund for Excellence in MIT Education](http://web.mit.edu/newsoffice/2000/darbeloff-1025.html) as part of The d'Arbeloff Interactive Mathematics Project (d'A I M P).
+The flash animations were developed by Jean-Michel Claus (with voiceover by Gilbert Strang). We are grateful! Funding was provided by a grant from the {{% resource_link "017e086e-7a32-4390-a2af-47231e471f62" "The d'Arbeloff Fund for Excellence in MIT Education" %}} as part of The d'Arbeloff Interactive Mathematics Project (d'A I M P).
 
 Matrix Multiplication
 ---------------------

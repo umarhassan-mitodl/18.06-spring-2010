@@ -4,8 +4,6 @@ description: ''
 end_time: ''
 file: null
 file_size: '112447812'
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -34,7 +32,7 @@ This session explains inverses, transposes and permutation matrices. We also lea
 
 These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook. However, this book is still the best reference for more information on the topics covered in each lecture.
 
-Strang, Gilbert. _Introduction to Linear Algebra_. 5th ed. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 2016. ISBN: 9780980232776.
+Strang, Gilbert. _Introduction to Linear Algebra_. 5th ed. {{% resource_link "f23293fc-5fec-4eb5-a4f3-30f03cd4324e" "Wellesley-Cambridge Press" %}}, 2016. ISBN: 9780980232776.
 
 **Instructor/speaker:** Prof. Gilbert Strang
 

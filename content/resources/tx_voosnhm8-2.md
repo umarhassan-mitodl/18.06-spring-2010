@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-06-linear-algebra-spring-2010/a0ca026f1d605a1f8ad6d449dcf7321b_TX_vooSnhm8.vtt
 file_size: 42236
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
